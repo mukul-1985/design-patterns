@@ -13,3 +13,5 @@ buildNumber.properties
 
 .idea/
 designpatterns.iml
+.idea
+*.iml
