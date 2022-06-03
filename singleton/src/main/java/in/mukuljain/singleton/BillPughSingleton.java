@@ -1,6 +1,4 @@
-package in.mukuljain;
-
-import java.math.BigDecimal;
+package in.mukuljain.singleton;
 
 public class BillPughSingleton {
 

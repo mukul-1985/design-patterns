@@ -1,4 +1,4 @@
-package in.mukuljain;
+package in.mukuljain.singleton;
 
 public class EagerInitializedSingleton {
 
