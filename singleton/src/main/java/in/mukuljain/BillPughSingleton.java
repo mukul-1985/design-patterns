@@ -1,4 +1,4 @@
-package in.mukuljain.singleton;
+package in.mukuljain;
 
 public class BillPughSingleton {
 
